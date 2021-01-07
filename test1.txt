@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a file cretaed in b1 
+=======
+this is a file cretaed in master
+>>>>>>> master
